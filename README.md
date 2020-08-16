@@ -23,4 +23,4 @@ My name is Michelle and I'm a software engineer.
 
 # GitHub Stats
 
-[![Michelle's github stats](https://github-readme-stats.vercel.app/api?username=michelletanpy)](https://github.com/michelletanpy/github-readme-stats)
+[![Michelle's github stats](https://github-readme-stats.vercel.app/api?username=michelletanpy&theme=dracula)](https://github.com/michelletanpy/github-readme-stats)
