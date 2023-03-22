@@ -12,7 +12,7 @@ My name is Michelle and I'm a full-stack engineer with 7+ years of experience - 
     - [ ] Build a mini game.
     - [ ] Merge 3 PRs in any open source projects !
 - ⚡ Fun fact: I made that GIF myself!
-- :heart My other interests : ['Travelling', 'Food', 'Anime', 'Latin social dance']
+- :heart: My other interests : ['Travelling', 'Food', 'Anime', 'Latin social dance']
 </p>
 
 # GitHub Stats
