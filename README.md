@@ -5,7 +5,7 @@ My name is Michelle and I'm a full-stack engineer with 7+ years of experience - 
 
 <img align="right" src="https://github.com/MichelleTanPY/MichelleTanPY/blob/master/michelletanpy-coding.gif">
 
-- 😃 My previously worked on C++, C# projects.
+- 😃 I previously worked on C++, C# projects.
 - 🌱 I’m learning about the front-end eco-system - mainly React, Typescript, Next.js, Node.js....
 - 🎯 2023 Goals: 
     - [ ] Build a mini game.
