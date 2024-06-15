@@ -8,9 +8,10 @@ My name is Michelle and I'm a full-stack engineer with 7+ years of experience - 
 
 - 😃 I previously worked on C++, C# projects.
 - 🌱 I’m currently learning the front-end eco-system - mainly on React, Typescript, Next.js and Node.js....
-- 🎯 2023 Goals: 
-    - [ ] Build a mini game.
+- 🎯 2024 Goals: 
+    - [ ] Build a mini game in Godot.
     - [ ] Merge 3 PRs in any open source projects !
+    - [ ] Start a side project.
 - ⚡ Fun fact: I made that GIF myself!
 - :heart: My other interests : ['Travelling', 'Food', 'Anime', 'Latin social dance']
 </p>
