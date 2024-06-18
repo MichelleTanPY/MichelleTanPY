@@ -1,19 +1,20 @@
 # Hello to you! 👋 ![](https://komarev.com/ghpvc/?username=michelletanpy&color=ff69b4)
 
 <p align='left'>
-My name is Michelle and I'm a full-stack engineer with 7+ years of experience - currently focusing on front-end stack.
+My name is Michelle and I'm a full-stack engineer with 8+ years of experience - currently focusing on front-end stack.
 
 
 <img align="right" src="https://github.com/MichelleTanPY/MichelleTanPY/blob/master/michelletanpy-coding.gif">
 
 - 😃 I previously worked on C++, C# projects.
-- 🌱 I’m currently learning the front-end eco-system - mainly on React, Typescript, Next.js and Node.js....
+- 🔨 Contributed to [Microsoft Terminal](https://github.com/microsoft/terminal/commits?author=MichelleTanPY)
+- 🌱 I’m currently wokring on front-end eco-system - mainly on React, Typescript, Next.js and Node.js....
 - 🎯 2024 Goals: 
     - [ ] Build a mini game in Godot.
     - [ ] Merge 3 PRs in any open source projects !
     - [ ] Start a side project.
 - ⚡ Fun fact: I made that GIF myself!
-- :heart: My other interests : ['Travelling', 'Food', 'Anime', 'Latin social dance']
+- :heart: My other interests : ['Travelling', 'Food', 'Anime', 'Reading', 'Running']
 </p>
 
 # GitHub Stats
