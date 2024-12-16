@@ -12,6 +12,7 @@ My name is Michelle and I'm a full-stack engineer with 8+ years of experience - 
 - 🎯 2024 Goals: 
     - [x] Build a mini game in Godot - Didn't manage to find time, but there was some progress! 
     - [ ] Merge 3 PRs in any open source projects !
+        - [Llama.cpp](https://github.com/ggerganov/llama.cpp/commits?author=MichelleTanPY)
     - [x] Start a side project: Published my [first chrome extension](https://chromewebstore.google.com/detail/neopets-battledome-weapon/ncgonkhjhpijcnfkdcmkbmeehkkadlgk) on 5/10/2024 😄
 - ⚡ Fun fact: I made that GIF myself!
 - :heart: My other interests : ['Travelling', 'Food', 'Anime', 'Reading', 'Running']
